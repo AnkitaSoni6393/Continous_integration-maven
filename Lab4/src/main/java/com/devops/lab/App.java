@@ -1,7 +1,6 @@
 package com.devops.lab;
 
-
- Hello world!
+Hello world!
  
 public class App 
 {
